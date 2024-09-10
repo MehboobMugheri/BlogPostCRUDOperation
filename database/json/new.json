@@ -1,0 +1,26 @@
+[
+    {
+        "name"     : "Mehboob Ali",
+        "email"    : "mehboob@gmail.com",
+        "age"      : 23,
+        "address"  : "Badin"
+    },
+    {
+        "name"     : "Mohtasham",
+        "email"    : "mohtasham@gmail.com",
+        "age"      : 2,
+        "address"  : "Badin"
+    },
+    {
+        "name"     : "Mujtaba",
+        "email"    : "mujtaba@gmail.com",
+        "age"      : 3,
+        "address"  : "Badin"
+    },
+    {
+        "name"     : "Arfeen",
+        "email"    : "arfeen@gmail.com",
+        "age"      : 23,
+        "address"  : "Badin"
+    }
+]
